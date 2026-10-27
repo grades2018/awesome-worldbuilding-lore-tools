@@ -69,6 +69,7 @@ Map makers for endpapers, reader reference, GM navigation, and your own explorat
 Help with names, words, and constructed languages that make a world feel lived-in.
 
 - [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Huge free collection of name generators for races, places, and objects.
+- [Mingzi](https://mingzi.io/chinese-name-generator) - Authentic Chinese character name generator and surname directory with meanings, tones, and five-element balance for character naming.
 - [Name Awesome](https://nameawesome.com/) - Real U.S. first names by year and decade since 1880, with meanings and origins, for era-appropriate character names.
 - [Vulgarlang](https://www.vulgarlang.com/) - Conlang generator for consistent fictional languages, words, and grammar.
 - [Donjon](https://donjon.bin.sh/) - Classic generators for names, calendars, weather, and dungeon content.
