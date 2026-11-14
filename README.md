@@ -18,8 +18,6 @@ Tools that help authors, game masters, and storytellers invent worlds, keep lore
 - [Formatting and Export](#formatting-and-export)
 - [Covers and Titles](#covers-and-titles)
 - [General AI Assistants](#general-ai-assistants)
-- [Related Lists](#related-lists)
-- [Contributing](#contributing)
 
 ## AI Writing Suites with World Continuity
 
@@ -133,7 +131,3 @@ General-purpose models worldbuilders use for lore Q&A, culture sketches, and con
 ## Contributing
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to worldbuilding, lore, and setting continuity, with official links and one-line blurbs.
-
-## License
-
-[CC0 1.0 Universal](LICENSE), public domain dedication.
