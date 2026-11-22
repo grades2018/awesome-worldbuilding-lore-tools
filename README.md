@@ -51,6 +51,7 @@ Keeping kingdoms, bloodlines, magic rules, and cast arcs straight across multipl
 - [Plottr](https://plottr.com/) - Visual timeline and template-based plotter for series arcs and multi-POV outlines.
 - [Dabble](https://www.dabblewriter.com/) - Cloud novel writing app with plot grids, story notes, and goals.
 - [RelationCanvas](https://relationcanvas.com/) - Free browser tool for character relationship charts with a separate label for each direction; PNG export.
+- [Castlori continuity worksheet](https://guide.castlori.com/continuity-worksheet/) - Free serial fiction worksheet for tracking established events, character beliefs, and what changes between chapters.
 
 ## Maps and Cartography
 
