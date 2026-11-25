@@ -50,6 +50,7 @@ Keeping kingdoms, bloodlines, magic rules, and cast arcs straight across multipl
 - [NovelCrafter](https://www.novelcrafter.com/) - Series Codex shared across books so lore and character progressions stay in sync.
 - [Plottr](https://plottr.com/) - Visual timeline and template-based plotter for series arcs and multi-POV outlines.
 - [Dabble](https://www.dabblewriter.com/) - Cloud novel writing app with plot grids, story notes, and goals.
+- [Manyagi](https://manyagi.com/create) - Private World capture and save workspace for fiction writers and worldbuilders.
 - [RelationCanvas](https://relationcanvas.com/) - Free browser tool for character relationship charts with a separate label for each direction; PNG export.
 - [Castlori continuity worksheet](https://guide.castlori.com/continuity-worksheet/) - Free serial fiction worksheet for tracking established events, character beliefs, and what changes between chapters.
 
