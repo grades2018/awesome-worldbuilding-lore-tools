@@ -62,6 +62,7 @@ Map makers for endpapers, reader reference, GM navigation, and your own explorat
 - [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Free open source generator for procedural worlds with states, cultures, and rivers.
 - [Dungeon Scrawl](https://dungeonscrawl.com/) - Free tool for quick floor plans of castles, dungeons, and buildings.
 - [Dungeon Fog](https://www.dungeonfog.com/) - Map creator for battle maps, regions, and world overviews.
+- [Ink & Torch](https://maps.rowhousesoftware.com/) - Free dungeon, cave, town and forest maps from a seed word, so the same word always gives the same map.
 
 ## Names, Languages and Generators
 
