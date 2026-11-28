@@ -68,6 +68,7 @@ Map makers for endpapers, reader reference, GM navigation, and your own explorat
 Help with names, words, and constructed languages that make a world feel lived-in.
 
 - [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - Huge free collection of name generators for races, places, and objects.
+- [Lemula](https://lemula.app) - Evolve a world's languages from a proto-language through later stages and publish them as browsable dictionaries.
 - [Mingzi](https://mingzi.io/chinese-name-generator) - Authentic Chinese character name generator and surname directory with meanings, tones, and five-element balance for character naming.
 - [Name Awesome](https://nameawesome.com/) - Real U.S. first names by year and decade since 1880, with meanings and origins, for era-appropriate character names.
 - [OC Name Generator](https://botchelor.com/tools/oc-name-generator) - Free character names in five styles (fantasy, modern, sci-fi, gothic, cozy), feminine, masculine or neutral, twelve at a time, built from hand-picked lists and syllables rather than AI.
